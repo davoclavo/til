@@ -2,13 +2,10 @@
 Today I Learned
 ===============================
 
-.. image:: https://badge.fury.io/py/til.png
-    :target: http://badge.fury.io/py/til
-
-.. image:: https://travis-ci.org/davoclavo/til.png?branch=master
+.. image:: https://img.shields.io/travis/davoclavo/til.svg
         :target: https://travis-ci.org/davoclavo/til
 
-.. image:: https://pypip.in/d/til/badge.png
+.. image:: https://img.shields.io/pypi/v/til.svg
         :target: https://pypi.python.org/pypi/til
 
 
